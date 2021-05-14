@@ -10,7 +10,7 @@ import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/capstonegroup7">
+    <BrowserRouter basename="/capstone-moodify">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
