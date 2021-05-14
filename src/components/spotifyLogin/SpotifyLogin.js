@@ -10,7 +10,7 @@ if (window.location.host === "localhost:3000") {
   client_ID = "30bda40009804cc0b810a094d8653182";
   redirect_uri = "http://localhost:3000/capstonegroup7/";
 } else {
-  client_ID = "7a4ffd2d4afc4f4d876826b6d369ab66";
+  client_ID = "94ab0d8ce9034b55889d653f605903d4";
   redirect_uri = "https://nddudash.github.io/capstone-moodify/";
 }
 
